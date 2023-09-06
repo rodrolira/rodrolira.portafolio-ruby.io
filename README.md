@@ -12,7 +12,4 @@ Mejoraria:
 2. Sección de Habilidades: Incluiré una barra de progreso para representar visualmente tus niveles de habilidad en la sección de "Habilidades".    
 
 
- Mostrare como proyectos 3 de Ruby on Rails:
- 1. Cuppon
- 2. Ricomida
- 3. Blockbuster
+Proyecto que usaré será Blockbuster.
