@@ -2,8 +2,7 @@
 Proyecto final Portafolio Certificacion Ruby On Rails 
 
 Para este proyecto usare Github porque estoy familiarizado ya que es el que mas utilizo al programar. Además de tener la facilidad de poder hacer acciones como crear una preview de la pagina que estas realizando. 
-
-Usare este portafolio como referencia porque me gusta su:
+https://geraldogonzalez.github.io/portafolio/portafolio-es/index.html Usare este portafolio como referencia porque me gusta su:
 1.Diseño 
 2.Estilo de la Terminal
 
