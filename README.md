@@ -1,15 +1,24 @@
-# portafolio-ruby
-Proyecto final Portafolio Certificacion Ruby On Rails 
+# README
 
-Para este proyecto usare Github porque estoy familiarizado ya que es el que mas utilizo al programar. Además de tener la facilidad de poder hacer acciones como crear una preview de la pagina que estas realizando. 
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Usare este portafolio como referencia porque me gusta su:
-1.Diseño 
-2.Estilo de la Terminal
+Things you may want to cover:
 
-Mejoraria:
-1. Barra de Navegación: Podemos mejorar la barra de navegación agregando más elementos según el proyecto.
-2. Sección de Habilidades: Incluiré una barra de progreso para representar visualmente tus niveles de habilidad en la sección de "Habilidades".    
+* Ruby version
 
+* System dependencies
 
-Proyecto que usaré será Blockbuster.
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
